@@ -58,10 +58,10 @@
     "@babel/helper-validator-identifier" "^7.14.9"
     to-fast-properties "^2.0.0"
 
-"@eivindml/shared@^1.0.3":
-  version "1.0.3"
-  resolved "https://npm.pkg.github.com/download/@eivindml/shared/1.0.3/5eef3b98216839820f9f26b7c1fa22deaaa10846f50997a4b024e1e29ab26d8d#0019e9da52f320f3b2ebc05f4dd6a0324deadd45"
-  integrity sha512-TR3ww53t8LnmzfBRTq5sPT/2CaqkBMitFlOjo1SnB49KYn4APBwRPis9hPJgULOjWoFg91zPIz/CmAv8xvAQHA==
+"@eivindml/shared@^1.0.6":
+  version "1.0.6"
+  resolved "https://npm.pkg.github.com/download/@eivindml/shared/1.0.6/1a18d75eef4cd39d0393ae3341959768bb10d0df49507d4f3d712e4c7ae82be6#ae7e6c50d13c7e584a8f28a4091054fe38c4c849"
+  integrity sha512-iox2JFcMe3qCMXOEKABO7vTzU7s/TkSdIzqCX14+0kYJVp/BV574o7vhuHsXAvmzetcS4MVH0n5kEv8y9EgROQ==
 
 "@eslint/eslintrc@^0.4.3":
   version "0.4.3"
