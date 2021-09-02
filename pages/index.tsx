@@ -1,5 +1,5 @@
 import { NextPage } from "next";
-import { ExampleComponent } from "shared";
+import { ExampleComponent } from "@eivindml/shared";
 
 const Home: NextPage = () => {
   return (
